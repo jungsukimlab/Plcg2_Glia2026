@@ -1,0 +1,15 @@
+ID,sample,genotype,sex,run,cellranger_dir
+F_HET_1,S3,HET,F,Run1,/path/to/cellranger/F_HET_1/outs
+F_HET_2,S2,HET,F,Run1,/path/to/cellranger/F_HET_2/outs
+F_KO_1,S4,KO,F,Run1,/path/to/cellranger/F_KO_1/outs
+F_KO_2,S5,KO,F,Run1,/path/to/cellranger/F_KO_2/outs
+F_WT_2,S1,WT,F,Run1,/path/to/cellranger/F_WT_2/outs
+HETM2,S11,HET,M,Run2,/path/to/cellranger/HETM2/outs
+KOM2,S12,KO,M,Run2,/path/to/cellranger/KOM2/outs
+M_HET_1,S8,HET,M,Run1,/path/to/cellranger/M_HET_1/outs
+M_KO_1,S9,KO,M,Run1,/path/to/cellranger/M_KO_1/outs
+M_WT_1,S6,WT,M,Run1,/path/to/cellranger/M_WT_1/outs
+M_WT_2,S7,WT,M,Run1,/path/to/cellranger/M_WT_2/outs
+Plcg2_M_HET_2,S13,HET,M,Run3,/path/to/cellranger/Plcg2_M_HET_2/outs
+Plcg2_M_KO_2,S14,KO,M,Run3,/path/to/cellranger/Plcg2_M_KO_2/outs
+WTF2,S10,WT,F,Run2,/path/to/cellranger/WTF2/outs
